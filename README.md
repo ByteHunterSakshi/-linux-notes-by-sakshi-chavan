@@ -1,7 +1,7 @@
 # 📘 Linux & DevOps Notes — by Sakshi Chavan
 
 > ✍️ **Author:** Sakshi Chavan
-> 📅 **Compiled while learning Linux fundamentals & DevOps basics**
+> 📅 **Compiled while learning Linux fundamentals**
 > 🔗 These are my personal study notes, written in my own words while learning. Please do not repost or copy without credit — feel free to fork and star instead ⭐
 
 ---
